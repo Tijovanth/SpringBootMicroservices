@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazy Bank cards Local related Apis"
+  contactDetails:
+    name: "Shanthalatha - Dev"
+    email: "shan@gmail.com"
+  onCallSupport:
+    - (555) 467-9876
+    - (555) 783-0965

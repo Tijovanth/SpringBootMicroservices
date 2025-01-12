@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version:
+    "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs "
+  contactDetails:
+    name: "Tijo - Dev Lead"
+    email: "tijo83@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

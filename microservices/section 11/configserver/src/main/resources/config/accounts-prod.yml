@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs "
+  contactDetails:
+    name: "Ranga - Technical Lead"
+    email: "ranga@gmail.com"
+  onCallSupport:
+    - (555) 467-9876
+    - (555) 783-0965

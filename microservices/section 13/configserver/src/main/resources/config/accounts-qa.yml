@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Yuji - QA Lead"
+    email: "yuji@gmail.com"
+  onCallSupport:
+    - (555) 565-6754
+    - (555) 323-6753

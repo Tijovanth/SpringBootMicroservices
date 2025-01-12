@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version:
+    "1.0"
+
+cards:
+  message: "Welcome to Eazy Bank Prod related Apis"
+  contactDetails:
+    name: "Tijovanth - Lead"
+    email: "tijovanth83@gmail.com"
+  onCallSupport:
+    - (555) 467-9876
+    - (555) 783-0965

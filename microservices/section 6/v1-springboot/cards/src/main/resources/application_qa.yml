@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version:
+    "2.0"
+
+cards:
+  message: "Welcome to Eazy Bank QA related Apis"
+  contactDetails:
+    name: "Yuji - Test Lead"
+    email: "yuji@gmail.com"
+  onCallSupport:
+    - (555) 467-9876
+    - (555) 783-0965
